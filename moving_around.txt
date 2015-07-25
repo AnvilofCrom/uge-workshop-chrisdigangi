@@ -1,0 +1,43 @@
+cd m
+ls ~/Movies/
+ls /Users/Bubba/Documents/
+ls ~
+cd Desktop/
+cd /Users/Guest/
+ls /Users/
+pwd Users/
+cd /Users/Bubba/Music/
+cd Documents/
+ls -l
+ls -t
+cd /Users/Bubba/
+cd /
+cd .local/
+cd
+cd /users\ Bubba
+pwd Applications/
+pwd /
+cd ?
+man chown
+ls -rl
+ls -lr
+ls -tr
+ls -rt
+echo $PATH
+#this command shows you the path
+#how are you doing!
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew install git
+brew info fish
+fish_update_completions
+exit
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
