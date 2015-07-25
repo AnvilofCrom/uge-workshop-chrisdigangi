@@ -1,4 +1,3 @@
-cd m
 ls ~/Movies/
 ls /Users/Bubba/Documents/
 ls ~
