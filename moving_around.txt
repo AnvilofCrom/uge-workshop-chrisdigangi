@@ -1,5 +1,5 @@
 ls ~/Movies/
-ls /Users/Bubba/Documents/
+ls /Users/Bubba/Documents/ Haha I'm doing stuff to your code.
 ls ~
 cd Desktop/
 cd /Users/Guest/
